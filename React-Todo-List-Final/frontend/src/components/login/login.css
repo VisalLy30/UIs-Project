@@ -1,0 +1,6 @@
+Form.Label a{
+    color:rgb(0, 0, 0);
+}
+.form-check-label a:hover{
+    color:rgb(204, 0, 0);
+}
